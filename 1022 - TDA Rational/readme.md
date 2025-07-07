@@ -5,10 +5,10 @@ You were invited to do a little job for your Mathematic teacher. The job is to r
 
 Considering N1 and D1 as numerator and denominator of the first fraction, follow the orientation about how to do each one of these 4 operations:
 
-Sum: (N1\*D2 + N2\*D1) / (D1*D2)
-Subtraction: (N1\*D2 - N2\*D1) / (D1\*D2)
-Multiplication: (N1\*N2) / (D1\*D2)
-Division: (N1/D1) / (N2/D2), that means (N1\*D2)/(N2\*D1)
+Sum: (N1\*D2 + N2\*D1) / (D1*D2)  
+Subtraction: (N1\*D2 - N2\*D1) / (D1\*D2)  
+Multiplication: (N1\*N2) / (D1\*D2)  
+Division: (N1/D1) / (N2/D2), that means (N1\*D2)/(N2\*D1)  
 
 ###### **Input**
 The input contains several cases of test. The first value is an integer N (1 ≤ N ≤ 1*104), indicating the amount of cases of test that must be read. Each case of test contains a rational value X (1 ≤ X ≤ 1000), an operation (-, +, * or /) and another rational value Y (1 ≤ Y ≤ 1000).
@@ -18,15 +18,15 @@ The output must be a rational number, followed by a “=“ sign and another rat
 
 ###### **Input Sample**
 
-*4*
-*1 / 2 + 3 / 4*
-*1 / 2 - 3 / 4*
-*2 / 3 * 6 / 6*
+*4*  
+*1 / 2 + 3 / 4*  
+*1 / 2 - 3 / 4*  
+*2 / 3 * 6 / 6*  
 *1 / 2 / 3 / 4*
 
 ###### **Output Sample**
 
-*10/8 = 5/4*
-*-2/8 = -1/4*
-*12/18 = 2/3*
+*10/8 = 5/4*  
+*-2/8 = -1/4*  
+*12/18 = 2/3*  
 *4/6 = 2/3*
