@@ -19,27 +19,3 @@ The next line contains an integer Q (1 ≤ Q ≤ 1000) indicating the number of 
 ###### Output
 Output Q lines, each line with an integer indicating the number of trash photos for the corresponding query of the input.  
 
-**Input Sample**  
-
-```
-3
-0 1
-2 2
-4 2
-3
-1 2 4
-5 8 16
-3 1 8
-3
-3 1
-1 3
-0 2
-```
-
-**Output Sample**  
-
-```
-2
-1
-0
-```

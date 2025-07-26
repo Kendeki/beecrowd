@@ -21,39 +21,3 @@ The first line of input contains a single integer N (1≤N≤8), the number of r
 ###### Output
 Your program should output a single line, containing a single integer, the value of the lowest card that must be taken from the stack in the next round for Mary to win the game, or -1 if Mary cannot win the match in that next round.  
 
-**Input Samples**  
-
-```
-1
-10 5
-9 10
-1
-```
-
-```
-2
-8 4
-4 1
-4 4
-```
-
-```
-8
-2 1
-1 1
-1 2 2 2 3 3 3 3
-```
-
-**Output Samples**  
-
-```
-3
-```
-
-```
-5
-```
-
-```
--1
-```

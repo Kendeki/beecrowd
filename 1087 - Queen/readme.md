@@ -14,20 +14,3 @@ The end of input is indicated by a line containing four zeros, separated by spac
 
 ###### Output
 For each test case in the input your program must print a single line, containing an integer, indicating the smallest number of moves needed for the queen to reach the new position.  
-
-**Input Sample**  
-
-´´´
-4 4 6 2
-3 5 3 5
-5 5 4 3
-0 0 0 0
-´´´
-
-**Output Sample**  
-
-´´´
-1
-0
-2
-´´´

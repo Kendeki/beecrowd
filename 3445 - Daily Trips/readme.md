@@ -20,23 +20,3 @@ The first line contains three integers N (1 ≤ N ≤ 104), H (1 ≤ H ≤ 100),
 
 Output N lines. For i = 1, 2, ... , N, the i-th line must contain two characters indicating whether Bella brought an umbrella on each trip of the i-th day. The first character refers to the first trip while the second character refers to the second trip. Each character must be the uppercase letter “Y” if Bella brought an umbrella, and the uppercase letter “N” otherwise.  
 
-**Input Sample**  
-
-```
-5 2 1
-Y N
-N N
-Y N
-N Y
-Y Y
-```
-
-**Output Sample**  
-
-```
-Y N
-N N
-Y Y
-N Y
-Y Y
-```

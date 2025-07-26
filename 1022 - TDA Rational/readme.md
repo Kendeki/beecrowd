@@ -15,18 +15,3 @@ The input contains several cases of test. The first value is an integer N (1 ≤
 
 ###### **Output**
 The output must be a rational number, followed by a “=“ sign and another rational number, that is the simplification of the first value. In case of the first value can’t be simplified, the same value must be repeated after the ‘=’ sign.
-
-###### **Input Sample**
-
-*4*  
-*1 / 2 + 3 / 4*  
-*1 / 2 - 3 / 4*  
-*2 / 3 * 6 / 6*  
-*1 / 2 / 3 / 4*
-
-###### **Output Sample**
-
-*10/8 = 5/4*  
-*-2/8 = -1/4*  
-*12/18 = 2/3*  
-*4/6 = 2/3*

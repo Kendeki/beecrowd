@@ -10,18 +10,3 @@ The input has several test cases. Each test case starts with an integer N, telli
 ###### Output
 
 The output should show the sum of the numerical values, with the letters properly removed. In the case of example, we have: 1 + 2 + 13 = 16  
-
-**Input Sample**  
-
-```
-3
-A1
-2B
-1A3B
-```
-
-**Output Sample**
-
-```
-16
-```
