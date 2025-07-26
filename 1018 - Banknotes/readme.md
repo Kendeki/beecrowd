@@ -5,5 +5,5 @@ In this problem you have to read an integer value and calculate the smallest pos
 ###### **Input**
 The input file contains an integer value N (0 < N < 1000000).  
 
-###### ** Output**
+###### **Output**
 Print the read number and the minimum quantity of each necessary banknotes in Portuguese language, as the given example. Do not forget to print the end of line after each line, otherwise you will receive *“Presentation Error”*.
